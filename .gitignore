@@ -1,0 +1,30 @@
+# Keil build products
+MDK-ARM/gongxun2/*.o
+MDK-ARM/gongxun2/*.obj
+MDK-ARM/gongxun2/*.crf
+MDK-ARM/gongxun2/*.d
+MDK-ARM/gongxun2/*.axf
+MDK-ARM/gongxun2/*.hex
+MDK-ARM/gongxun2/*.map
+MDK-ARM/gongxun2/*.htm
+MDK-ARM/gongxun2/*.lnp
+MDK-ARM/gongxun2/*.sct
+MDK-ARM/gongxun2/*.dep
+MDK-ARM/gongxun2/*.build_log.htm
+MDK-ARM/*.lst
+MDK-ARM/*.bak
+MDK-ARM/*.log
+
+# Keil per-user debugger/options state
+*.uvoptx
+*.uvguix.*
+
+# Editor and temporary files
+*.tmp
+*.temp
+*.swp
+*.orig
+*.encoded
+*.encoded2
+Thumbs.db
+
